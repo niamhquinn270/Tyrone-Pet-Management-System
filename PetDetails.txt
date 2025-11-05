@@ -1,0 +1,5 @@
+Dog,Rex,4,black,30.0,labrador
+Cat,macy,7,brown,10.0,sphynx
+Cat,lucy,2,brown,13.0,siamese
+Dog,mac,2,brown,20.0,cockapoo
+Cat,lolan,3,white,20.0,persian
